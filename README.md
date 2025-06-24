@@ -5,7 +5,7 @@
 
 ---
 
-## 🖤 About Me
+## 💛 About Me
 
 - 🧠 Self-taught MERN Stack Developer  
 - 🎯 Passionate about building and improving things  
