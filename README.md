@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vishnu 🧑‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+MERN+developer;Full +stack+Developer+in+progress;Lover+of+coding+and+learning!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+MERN+developer;Full+stack+Developer+in+progress;Lover+of+coding+and+learning!" alt="Typing SVG">
 </p>
 
 ---
