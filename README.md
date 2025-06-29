@@ -11,7 +11,7 @@
 - 🎯 Passionate about building and improving things  
 - 📚 Currently learning: Node.js, MongoDB, DSA  
 - 🚀 Goal: Land a high-paying dev job in 2 years  
-- 🎮 Fun fact: I love chess and Pokémon (Heracross 💪)
+- 🎮 Fun fact: I love chess and Pokémon (Lucario 💪)
 
 ---
 
