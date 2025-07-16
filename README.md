@@ -41,7 +41,6 @@
 ## 📁 Featured Projects
 
 - 🔧 [Flipkart Clone – Bootstrap](https://github.com/VishnutvalsanCodes/flipkart-clone)
-- 🤖 [Simple Chatbot – jQuery + Bootstrap](https://github.com/your-repo/chatbot)
 - 📝 [To-Do App – JavaScript DOM](https://github.com/your-repo/todo-app)
 
 ---
